@@ -45,7 +45,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 (Add dashboard screenshot )
 
 ##  How to Run Project
-
+Download dataset from Kaggle and place creditcard.csv in project folder
 ```bash
 pip install streamlit
 streamlit run app.py
