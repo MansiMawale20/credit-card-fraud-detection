@@ -47,5 +47,5 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ##  How to Run Project
 
 ```bash
-pip install -r requirements.txt
+pip install streamlit
 streamlit run app.py
