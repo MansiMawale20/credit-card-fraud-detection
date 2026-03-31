@@ -11,6 +11,11 @@ To build a system that can automatically detect fraud transactions and help prev
 - Contains anonymized features (V1 to V28), Time, Amount, and Class
 - Class = 0 (Normal), 1 (Fraud)
 
+- The dataset is too large to upload on GitHub.
+
+Download from Kaggle:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## Technologies Used
 - Python
 - Pandas, NumPy
