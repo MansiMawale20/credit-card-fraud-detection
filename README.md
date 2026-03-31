@@ -41,8 +41,10 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 - Improved fraud detection using SMOTE
 - Visualized fraud alerts in dashboard
 
-##  Output
-(Add dashboard screenshot )
+
+##  Dashboard Preview
+
+![Dashboard](screenshot.png)
 
 ##  How to Run Project
 Download dataset from Kaggle and place creditcard.csv in project folder
